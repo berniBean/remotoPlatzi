@@ -1,3 +1,6 @@
 En este commit vamos a crear el archivo hello.txt
 
 apartir de este commit crearemos el commit "Make some important changes to hello.txt"
+
+en esta parte de la practica vamos a crear el commit "Try something crazy"
+
